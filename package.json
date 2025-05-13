@@ -1,0 +1,20 @@
+{
+  "name": "lod-terrain",
+  "version": "1.0.0",
+  "description": "LOD Terrain ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixpalmer/lod-terrain.git"
+  },
+  "author": "felixpalmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixpalmer/lod-terrain/issues"
+  },
+  "homepage": "https://github.com/felixpalmer/lod-terrain#readme"
+}
