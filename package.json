@@ -1,0 +1,28 @@
+{
+  "name": "lod-terrain",
+  "version": "1.0.0",
+  "description": "Parametric Seafloor LOD Terrain Generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanakawai-maui/seafloor.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanakawai-maui/seafloor/issues"
+  },
+  "homepage": "https://github.com/kanakawai-maui/seafloor#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "three": "^0.176.0"
+  }
+}
